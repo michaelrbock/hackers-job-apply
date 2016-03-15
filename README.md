@@ -8,7 +8,7 @@ and incompetent people. To filter them out set up a tiny task. Here is an exampl
 
 ```
 What is the largest 3 digit prime number?
-POST json to the server with the answer -> { 'answer': 'xxx' }
+POST JSON to the server with the answer -> { "answer": "xxx" }
 ```
 
 ## How to use it?
